@@ -34,4 +34,4 @@ Hello, I am Ruan Yudi. I am currently an undergraduate student majoring in Artif
 ![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=ruanyudi&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruanyudi&hide=TeX&layout=compact)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ruanyudi.ruanyudi)
