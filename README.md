@@ -22,7 +22,7 @@ Hello, I am Ruan Yudi. I am currently an undergraduate student majoring in Artif
 - 📫 How to reach me: yudi.ruan@mails.cqjtu.edu.cn
 - 😄 Pronouns: Programmer/He/His/Him
 - 📝 [Resume](https://ruanyudi.github.io/src/ryd_cv.pdf) 
-- 🏠 [Web Page](ruanyudi.github.io)
+- 🏠 [Web Page](https://ruanyudi.github.io)
 
 **Languages and Tools:** 
 
